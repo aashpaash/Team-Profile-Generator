@@ -34,7 +34,7 @@ WHEN I decide to finish building my team<br>
 THEN I exit the application, and the HTML is generated<br>
 
 ## Installation
-Index.js terminal and run npm install
+Index.js terminal and run npm install <br>
 Inquirer<br>
 Jest Testing<br>
 
@@ -43,7 +43,4 @@ Jest Testing<br>
 
 
 ## License
-![License Badge](https://img.shields.io/badge/Inquirer-Inquirer-blue)<br>
-![License Badge](https://img.shields.io/badge/ObjectOrientedProgramming-OOP-blue)<br>
-![License Badge](https://img.shields.io/badge/HTML-HTML-blue)<br>
-![License Badge](https://img.shields.io/badge/CSS-CSS-blue)<br>
+![License Badge](https://img.shields.io/badge/License-MIT-blue)<br>
