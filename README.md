@@ -38,6 +38,9 @@ Index.js terminal and run npm install <br>
 Inquirer<br>
 Jest Testing<br>
 
+Repo: https://github.com/aashpaash/Team-Profile-Generator
+Deployed: https://aashpaash.github.io/Team-Profile-Generator/
+
 ## Screenshots
 
 
