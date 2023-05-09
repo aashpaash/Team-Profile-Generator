@@ -1,6 +1,7 @@
 // Node modules
 const inquirer = require('inquirer');
 const fs = require('fs');
+const jest = require('jest');
 
 // Generate team page
 const generateTeam = require('./utils/generateTeam');
