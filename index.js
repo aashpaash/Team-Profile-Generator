@@ -35,7 +35,7 @@ function teamManager() {
     {
       type: 'input',
       name: 'officeNum',
-      message: 'Manger office number:',
+      message: 'Manager office number:',
     },
     {
       type: 'input',
@@ -61,7 +61,7 @@ function addMember() {
   }]).then(selection => {
     if (selection.roles === 'engineer') {
       addEngineer();
-    } if (selection.roles === 'intern') {
+    } else if (selection.roles === 'intern') {
       addIntern();
     } else {
       generateTeam(team);
