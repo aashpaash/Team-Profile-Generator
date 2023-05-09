@@ -34,7 +34,7 @@ WHEN I decide to finish building my team<br>
 THEN I exit the application, and the HTML is generated<br>
 
 ## Installation
-Index.js terminal and run npm install <br>
+Index.js terminal and run npm install && node index.js <br>
 Inquirer<br>
 Jest Testing<br>
 
