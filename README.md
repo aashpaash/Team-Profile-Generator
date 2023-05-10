@@ -39,7 +39,6 @@ Inquirer<br>
 Jest Testing<br>
 
 Repo: https://github.com/aashpaash/Team-Profile-Generator
-Deployed: https://aashpaash.github.io/Team-Profile-Generator/
 
 ## Screenshots
 [Screenshots](./assets/Screenshot%202023-05-08%20at%207.45.52%20PM.png)
